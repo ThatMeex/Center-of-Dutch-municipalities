@@ -1,0 +1,3764 @@
+[
+  {
+    "id": "GM0518",
+    "name": "'s-Gravenhage",
+    "code": "0518",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.0689953201603,
+      "lon": 4.303018627939565
+    }
+  },
+  {
+    "id": "GM0796",
+    "name": "'s-Hertogenbosch",
+    "code": "0796",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.716241699927316,
+      "lon": 5.35134746127183
+    }
+  },
+  {
+    "id": "GM1680",
+    "name": "Aa en Hunze",
+    "code": "1680",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.98763962158374,
+      "lon": 6.732307772164766
+    }
+  },
+  {
+    "id": "GM0358",
+    "name": "Aalsmeer",
+    "code": "0358",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.2578228678059,
+      "lon": 4.75180204868336
+    }
+  },
+  {
+    "id": "GM0197",
+    "name": "Aalten",
+    "code": "0197",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.92115744324649,
+      "lon": 6.5603635013754555
+    }
+  },
+  {
+    "id": "GM0059",
+    "name": "Achtkarspelen",
+    "code": "0059",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.21644027437948,
+      "lon": 6.1381155302881805
+    }
+  },
+  {
+    "id": "GM0482",
+    "name": "Alblasserdam",
+    "code": "0482",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.86737865193969,
+      "lon": 4.666583075757558
+    }
+  },
+  {
+    "id": "GM0613",
+    "name": "Albrandswaard",
+    "code": "0613",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.853334327935904,
+      "lon": 4.436233410357401
+    }
+  },
+  {
+    "id": "GM0361",
+    "name": "Alkmaar",
+    "code": "0361",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.60625558901297,
+      "lon": 4.804361752993147
+    }
+  },
+  {
+    "id": "GM0141",
+    "name": "Almelo",
+    "code": "0141",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.349439369638496,
+      "lon": 6.656417358530563
+    }
+  },
+  {
+    "id": "GM0034",
+    "name": "Almere",
+    "code": "0034",
+    "province": "Flevoland",
+    "province_code": "24",
+    "center": {
+      "lat": 52.41529242613577,
+      "lon": 5.197678243344593
+    }
+  },
+  {
+    "id": "GM0484",
+    "name": "Alphen aan den Rijn",
+    "code": "0484",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.11368094958486,
+      "lon": 4.642086147698801
+    }
+  },
+  {
+    "id": "GM1723",
+    "name": "Alphen-Chaam",
+    "code": "1723",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.50603281900673,
+      "lon": 4.890793364092426
+    }
+  },
+  {
+    "id": "GM1959",
+    "name": "Altena",
+    "code": "1959",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.76262736258589,
+      "lon": 4.923144683291465
+    }
+  },
+  {
+    "id": "GM0060",
+    "name": "Ameland",
+    "code": "0060",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.431565509567555,
+      "lon": 5.755108147423892
+    }
+  },
+  {
+    "id": "GM0307",
+    "name": "Amersfoort",
+    "code": "0307",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.169987525163066,
+      "lon": 5.381772385803955
+    }
+  },
+  {
+    "id": "GM0362",
+    "name": "Amstelveen",
+    "code": "0362",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.291013920254215,
+      "lon": 4.850924705012668
+    }
+  },
+  {
+    "id": "GM0363",
+    "name": "Amsterdam",
+    "code": "0363",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.362368427638046,
+      "lon": 4.933128043893079
+    }
+  },
+  {
+    "id": "GM0200",
+    "name": "Apeldoorn",
+    "code": "0200",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.192606582538616,
+      "lon": 5.918805818099071
+    }
+  },
+  {
+    "id": "GM0202",
+    "name": "Arnhem",
+    "code": "0202",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.002817748723366,
+      "lon": 5.898800396057005
+    }
+  },
+  {
+    "id": "GM0106",
+    "name": "Assen",
+    "code": "0106",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 53.00339802126036,
+      "lon": 6.552066731950912
+    }
+  },
+  {
+    "id": "GM0743",
+    "name": "Asten",
+    "code": "0743",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.38821804431764,
+      "lon": 5.779234842145926
+    }
+  },
+  {
+    "id": "GM0744",
+    "name": "Baarle-Nassau",
+    "code": "0744",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.43914110654094,
+      "lon": 4.885717913239219
+    }
+  },
+  {
+    "id": "GM0308",
+    "name": "Baarn",
+    "code": "0308",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.205352693579044,
+      "lon": 5.267997839326802
+    }
+  },
+  {
+    "id": "GM0489",
+    "name": "Barendrecht",
+    "code": "0489",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.8528719797314,
+      "lon": 4.525443682954941
+    }
+  },
+  {
+    "id": "GM0203",
+    "name": "Barneveld",
+    "code": "0203",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.17162307034082,
+      "lon": 5.639560311698149
+    }
+  },
+  {
+    "id": "GM0888",
+    "name": "Beek",
+    "code": "0888",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.93095381871844,
+      "lon": 5.806818825144025
+    }
+  },
+  {
+    "id": "GM1954",
+    "name": "Beekdaelen",
+    "code": "1954",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.93816927811596,
+      "lon": 5.9012236524767925
+    }
+  },
+  {
+    "id": "GM0889",
+    "name": "Beesel",
+    "code": "0889",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.27013785722754,
+      "lon": 6.067504276202051
+    }
+  },
+  {
+    "id": "GM1945",
+    "name": "Berg en Dal",
+    "code": "1945",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.82298131524231,
+      "lon": 5.958939947026635
+    }
+  },
+  {
+    "id": "GM1724",
+    "name": "Bergeijk",
+    "code": "1724",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.31122479595017,
+      "lon": 5.346531276343215
+    }
+  },
+  {
+    "id": "GM0893",
+    "name": "Bergen (L)",
+    "code": "0893",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.59452146222824,
+      "lon": 6.094790956006193
+    }
+  },
+  {
+    "id": "GM0373",
+    "name": "Bergen (NH)",
+    "code": "0373",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.663526540674965,
+      "lon": 4.664392855625364
+    }
+  },
+  {
+    "id": "GM0748",
+    "name": "Bergen op Zoom",
+    "code": "0748",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.50279014453963,
+      "lon": 4.2928702292918395
+    }
+  },
+  {
+    "id": "GM1859",
+    "name": "Berkelland",
+    "code": "1859",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.10190540128238,
+      "lon": 6.573742154101623
+    }
+  },
+  {
+    "id": "GM1721",
+    "name": "Bernheze",
+    "code": "1721",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.68596986268779,
+      "lon": 5.51747271397469
+    }
+  },
+  {
+    "id": "GM0753",
+    "name": "Best",
+    "code": "0753",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.51675996234492,
+      "lon": 5.39589659359263
+    }
+  },
+  {
+    "id": "GM0209",
+    "name": "Beuningen",
+    "code": "0209",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.86387361279831,
+      "lon": 5.740666763115387
+    }
+  },
+  {
+    "id": "GM0375",
+    "name": "Beverwijk",
+    "code": "0375",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.48589200138726,
+      "lon": 4.645137825554595
+    }
+  },
+  {
+    "id": "GM1728",
+    "name": "Bladel",
+    "code": "1728",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.375118054583574,
+      "lon": 5.241894007657677
+    }
+  },
+  {
+    "id": "GM0376",
+    "name": "Blaricum",
+    "code": "0376",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.282101016212145,
+      "lon": 5.269185322027749
+    }
+  },
+  {
+    "id": "GM0377",
+    "name": "Bloemendaal",
+    "code": "0377",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.37819120948159,
+      "lon": 4.578681722376548
+    }
+  },
+  {
+    "id": "GM1901",
+    "name": "Bodegraven-Reeuwijk",
+    "code": "1901",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.06776613532245,
+      "lon": 4.767755055913843
+    }
+  },
+  {
+    "id": "GM0755",
+    "name": "Boekel",
+    "code": "0755",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.60821981733775,
+      "lon": 5.692985059832853
+    }
+  },
+  {
+    "id": "GM1681",
+    "name": "Borger-Odoorn",
+    "code": "1681",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.90680320367569,
+      "lon": 6.875198732666505
+    }
+  },
+  {
+    "id": "GM0147",
+    "name": "Borne",
+    "code": "0147",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.31421760109855,
+      "lon": 6.7433047527388394
+    }
+  },
+  {
+    "id": "GM0654",
+    "name": "Borsele",
+    "code": "0654",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.43416753008158,
+      "lon": 3.822202359612729
+    }
+  },
+  {
+    "id": "GM0757",
+    "name": "Boxtel",
+    "code": "0757",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.58471763697429,
+      "lon": 5.326713674128277
+    }
+  },
+  {
+    "id": "GM0758",
+    "name": "Breda",
+    "code": "0758",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.57849893825068,
+      "lon": 4.761309335059601
+    }
+  },
+  {
+    "id": "GM1876",
+    "name": "Bronckhorst",
+    "code": "1876",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.044974983026286,
+      "lon": 6.303214103365014
+    }
+  },
+  {
+    "id": "GM0213",
+    "name": "Brummen",
+    "code": "0213",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.10819824935509,
+      "lon": 6.119879912860629
+    }
+  },
+  {
+    "id": "GM0899",
+    "name": "Brunssum",
+    "code": "0899",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.943784970761435,
+      "lon": 5.977250894959622
+    }
+  },
+  {
+    "id": "GM0312",
+    "name": "Bunnik",
+    "code": "0312",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.041551006081875,
+      "lon": 5.217303233584873
+    }
+  },
+  {
+    "id": "GM0313",
+    "name": "Bunschoten",
+    "code": "0313",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.243608806244644,
+      "lon": 5.357307092302229
+    }
+  },
+  {
+    "id": "GM0214",
+    "name": "Buren",
+    "code": "0214",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.93691076771429,
+      "lon": 5.408096265550377
+    }
+  },
+  {
+    "id": "GM0502",
+    "name": "Capelle aan den IJssel",
+    "code": "0502",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.93550381018912,
+      "lon": 4.575764799306682
+    }
+  },
+  {
+    "id": "GM0383",
+    "name": "Castricum",
+    "code": "0383",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.559659356720076,
+      "lon": 4.685648174854886
+    }
+  },
+  {
+    "id": "GM0109",
+    "name": "Coevorden",
+    "code": "0109",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.74077517718771,
+      "lon": 6.736860885243001
+    }
+  },
+  {
+    "id": "GM1706",
+    "name": "Cranendonck",
+    "code": "1706",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.2876512773431,
+      "lon": 5.598381222104936
+    }
+  },
+  {
+    "id": "GM0216",
+    "name": "Culemborg",
+    "code": "0216",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.948193110456074,
+      "lon": 5.210473175002889
+    }
+  },
+  {
+    "id": "GM0148",
+    "name": "Dalfsen",
+    "code": "0148",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.51119906748482,
+      "lon": 6.277097179586552
+    }
+  },
+  {
+    "id": "GM1891",
+    "name": "Dantumadiel",
+    "code": "1891",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.28300348584708,
+      "lon": 5.985873453504976
+    }
+  },
+  {
+    "id": "GM0310",
+    "name": "De Bilt",
+    "code": "0310",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.14661817318046,
+      "lon": 5.172799181873979
+    }
+  },
+  {
+    "id": "GM1940",
+    "name": "De Fryske Marren",
+    "code": "1940",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 52.8938579744189,
+      "lon": 5.667212367340036
+    }
+  },
+  {
+    "id": "GM0736",
+    "name": "De Ronde Venen",
+    "code": "0736",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.230680265871605,
+      "lon": 4.917185127885896
+    }
+  },
+  {
+    "id": "GM1690",
+    "name": "De Wolden",
+    "code": "1690",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.7050959898232,
+      "lon": 6.381398844027508
+    }
+  },
+  {
+    "id": "GM0503",
+    "name": "Delft",
+    "code": "0503",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.99805792684009,
+      "lon": 4.365117488040178
+    }
+  },
+  {
+    "id": "GM0400",
+    "name": "Den Helder",
+    "code": "0400",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.940634169406415,
+      "lon": 4.788322435990247
+    }
+  },
+  {
+    "id": "GM0762",
+    "name": "Deurne",
+    "code": "0762",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.4342751638433,
+      "lon": 5.824413229340465
+    }
+  },
+  {
+    "id": "GM0150",
+    "name": "Deventer",
+    "code": "0150",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.26933225864577,
+      "lon": 6.23660524320672
+    }
+  },
+  {
+    "id": "GM0384",
+    "name": "Diemen",
+    "code": "0384",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.33900388040144,
+      "lon": 4.992210846364767
+    }
+  },
+  {
+    "id": "GM1980",
+    "name": "Dijk en Waard",
+    "code": "1980",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.683896713160266,
+      "lon": 4.820513973020981
+    }
+  },
+  {
+    "id": "GM1774",
+    "name": "Dinkelland",
+    "code": "1774",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.37001854973109,
+      "lon": 6.915858190691026
+    }
+  },
+  {
+    "id": "GM0221",
+    "name": "Doesburg",
+    "code": "0221",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.020357287026975,
+      "lon": 6.144955403144127
+    }
+  },
+  {
+    "id": "GM0222",
+    "name": "Doetinchem",
+    "code": "0222",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.96255181995799,
+      "lon": 6.28777042921022
+    }
+  },
+  {
+    "id": "GM0766",
+    "name": "Dongen",
+    "code": "0766",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.63958078182168,
+      "lon": 4.95293373234348
+    }
+  },
+  {
+    "id": "GM0505",
+    "name": "Dordrecht",
+    "code": "0505",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.782934740571015,
+      "lon": 4.717215485357931
+    }
+  },
+  {
+    "id": "GM0498",
+    "name": "Drechterland",
+    "code": "0498",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.660067847741274,
+      "lon": 5.1720614758040595
+    }
+  },
+  {
+    "id": "GM1719",
+    "name": "Drimmelen",
+    "code": "1719",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.700980795444764,
+      "lon": 4.758965656288721
+    }
+  },
+  {
+    "id": "GM0303",
+    "name": "Dronten",
+    "code": "0303",
+    "province": "Flevoland",
+    "province_code": "24",
+    "center": {
+      "lat": 52.51888308381671,
+      "lon": 5.679690116326274
+    }
+  },
+  {
+    "id": "GM0225",
+    "name": "Druten",
+    "code": "0225",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.8753321905386,
+      "lon": 5.6080707792476785
+    }
+  },
+  {
+    "id": "GM0226",
+    "name": "Duiven",
+    "code": "0226",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.949202840024306,
+      "lon": 6.018302809097357
+    }
+  },
+  {
+    "id": "GM1711",
+    "name": "Echt-Susteren",
+    "code": "1711",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.084097149349,
+      "lon": 5.909225751747932
+    }
+  },
+  {
+    "id": "GM0385",
+    "name": "Edam-Volendam",
+    "code": "0385",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.54626271691598,
+      "lon": 5.022723968878634
+    }
+  },
+  {
+    "id": "GM0228",
+    "name": "Ede",
+    "code": "0228",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.078096160515365,
+      "lon": 5.734077858484747
+    }
+  },
+  {
+    "id": "GM0317",
+    "name": "Eemnes",
+    "code": "0317",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.25433372549163,
+      "lon": 5.286863917222544
+    }
+  },
+  {
+    "id": "GM1979",
+    "name": "Eemsdelta",
+    "code": "1979",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.33615687651563,
+      "lon": 6.883900931194373
+    }
+  },
+  {
+    "id": "GM0770",
+    "name": "Eersel",
+    "code": "0770",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.39739650371992,
+      "lon": 5.312983440672289
+    }
+  },
+  {
+    "id": "GM1903",
+    "name": "Eijsden-Margraten",
+    "code": "1903",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.80123581470376,
+      "lon": 5.7750806242402355
+    }
+  },
+  {
+    "id": "GM0772",
+    "name": "Eindhoven",
+    "code": "0772",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.44964327391933,
+      "lon": 5.457394656297455
+    }
+  },
+  {
+    "id": "GM0230",
+    "name": "Elburg",
+    "code": "0230",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.41436068544692,
+      "lon": 5.846019239220951
+    }
+  },
+  {
+    "id": "GM0114",
+    "name": "Emmen",
+    "code": "0114",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.75134571250054,
+      "lon": 6.964855264782087
+    }
+  },
+  {
+    "id": "GM0388",
+    "name": "Enkhuizen",
+    "code": "0388",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.75355741029503,
+      "lon": 5.297851621315871
+    }
+  },
+  {
+    "id": "GM0153",
+    "name": "Enschede",
+    "code": "0153",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.22388350232443,
+      "lon": 6.874923140564893
+    }
+  },
+  {
+    "id": "GM0232",
+    "name": "Epe",
+    "code": "0232",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.32458253151748,
+      "lon": 5.960760786073667
+    }
+  },
+  {
+    "id": "GM0233",
+    "name": "Ermelo",
+    "code": "0233",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.291778303231695,
+      "lon": 5.664139928960331
+    }
+  },
+  {
+    "id": "GM0777",
+    "name": "Etten-Leur",
+    "code": "0777",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.57968400633759,
+      "lon": 4.642619345908443
+    }
+  },
+  {
+    "id": "GM0779",
+    "name": "Geertruidenberg",
+    "code": "0779",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.697749350712094,
+      "lon": 4.881538734902773
+    }
+  },
+  {
+    "id": "GM1771",
+    "name": "Geldrop-Mierlo",
+    "code": "1771",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.43400815871672,
+      "lon": 5.588943443272515
+    }
+  },
+  {
+    "id": "GM1652",
+    "name": "Gemert-Bakel",
+    "code": "1652",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.54314361655503,
+      "lon": 5.7543472837387215
+    }
+  },
+  {
+    "id": "GM0907",
+    "name": "Gennep",
+    "code": "0907",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.70057041110087,
+      "lon": 5.984357907152511
+    }
+  },
+  {
+    "id": "GM0784",
+    "name": "Gilze en Rijen",
+    "code": "0784",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.56079232795285,
+      "lon": 4.9144903985912265
+    }
+  },
+  {
+    "id": "GM1924",
+    "name": "Goeree-Overflakkee",
+    "code": "1924",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.75335759587548,
+      "lon": 4.101853490224364
+    }
+  },
+  {
+    "id": "GM0664",
+    "name": "Goes",
+    "code": "0664",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.51926903396362,
+      "lon": 3.8396833266138253
+    }
+  },
+  {
+    "id": "GM0785",
+    "name": "Goirle",
+    "code": "0785",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.51239905817891,
+      "lon": 5.03353013285186
+    }
+  },
+  {
+    "id": "GM1942",
+    "name": "Gooise Meren",
+    "code": "1942",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.322557496353575,
+      "lon": 5.1226480955789855
+    }
+  },
+  {
+    "id": "GM0512",
+    "name": "Gorinchem",
+    "code": "0512",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.84130257065722,
+      "lon": 4.975515850086085
+    }
+  },
+  {
+    "id": "GM0513",
+    "name": "Gouda",
+    "code": "0513",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.016699374333925,
+      "lon": 4.706728528316322
+    }
+  },
+  {
+    "id": "GM0014",
+    "name": "Groningen",
+    "code": "0014",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.21964381438178,
+      "lon": 6.6291461212312885
+    }
+  },
+  {
+    "id": "GM1729",
+    "name": "Gulpen-Wittem",
+    "code": "1729",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.80184558851766,
+      "lon": 5.901275568902656
+    }
+  },
+  {
+    "id": "GM0158",
+    "name": "Haaksbergen",
+    "code": "0158",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.15872611005075,
+      "lon": 6.7527378903419955
+    }
+  },
+  {
+    "id": "GM0392",
+    "name": "Haarlem",
+    "code": "0392",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.38431912108123,
+      "lon": 4.647994312016451
+    }
+  },
+  {
+    "id": "GM0394",
+    "name": "Haarlemmermeer",
+    "code": "0394",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.316323122352,
+      "lon": 4.688482040102104
+    }
+  },
+  {
+    "id": "GM1655",
+    "name": "Halderberge",
+    "code": "1655",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.59292622365443,
+      "lon": 4.522892193179758
+    }
+  },
+  {
+    "id": "GM0160",
+    "name": "Hardenberg",
+    "code": "0160",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.5860115458095,
+      "lon": 6.5542237993607415
+    }
+  },
+  {
+    "id": "GM0243",
+    "name": "Harderwijk",
+    "code": "0243",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.34197468651682,
+      "lon": 5.644916697490971
+    }
+  },
+  {
+    "id": "GM0523",
+    "name": "Hardinxveld-Giessendam",
+    "code": "0523",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.837191947624156,
+      "lon": 4.85889581081103
+    }
+  },
+  {
+    "id": "GM0072",
+    "name": "Harlingen",
+    "code": "0072",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.1434473916326,
+      "lon": 5.267775982949111
+    }
+  },
+  {
+    "id": "GM0244",
+    "name": "Hattem",
+    "code": "0244",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.475735589151675,
+      "lon": 6.048537958748944
+    }
+  },
+  {
+    "id": "GM0396",
+    "name": "Heemskerk",
+    "code": "0396",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.51230866124802,
+      "lon": 4.645205625642623
+    }
+  },
+  {
+    "id": "GM0397",
+    "name": "Heemstede",
+    "code": "0397",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.3454673325924,
+      "lon": 4.6165763704431235
+    }
+  },
+  {
+    "id": "GM0246",
+    "name": "Heerde",
+    "code": "0246",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.40738035035703,
+      "lon": 6.052237999387158
+    }
+  },
+  {
+    "id": "GM0074",
+    "name": "Heerenveen",
+    "code": "0074",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.00477449405807,
+      "lon": 5.997261553882518
+    }
+  },
+  {
+    "id": "GM0917",
+    "name": "Heerlen",
+    "code": "0917",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.89284846305937,
+      "lon": 5.974055714003572
+    }
+  },
+  {
+    "id": "GM1658",
+    "name": "Heeze-Leende",
+    "code": "1658",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.361144488837304,
+      "lon": 5.564720729779865
+    }
+  },
+  {
+    "id": "GM0399",
+    "name": "Heiloo",
+    "code": "0399",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.601433385913545,
+      "lon": 4.710946154957771
+    }
+  },
+  {
+    "id": "GM0163",
+    "name": "Hellendoorn",
+    "code": "0163",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.39330684357188,
+      "lon": 6.459095114967444
+    }
+  },
+  {
+    "id": "GM0794",
+    "name": "Helmond",
+    "code": "0794",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.47653811543578,
+      "lon": 5.65681896358617
+    }
+  },
+  {
+    "id": "GM0531",
+    "name": "Hendrik-Ido-Ambacht",
+    "code": "0531",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.84502721976495,
+      "lon": 4.639133453598631
+    }
+  },
+  {
+    "id": "GM0164",
+    "name": "Hengelo (O)",
+    "code": "0164",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.25426825994176,
+      "lon": 6.779228940248106
+    }
+  },
+  {
+    "id": "GM1966",
+    "name": "Het Hogeland",
+    "code": "1966",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.419331617318726,
+      "lon": 6.5432386688956665
+    }
+  },
+  {
+    "id": "GM0252",
+    "name": "Heumen",
+    "code": "0252",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.77981399912643,
+      "lon": 5.819120730477468
+    }
+  },
+  {
+    "id": "GM0797",
+    "name": "Heusden",
+    "code": "0797",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.695437878331624,
+      "lon": 5.160306582474035
+    }
+  },
+  {
+    "id": "GM0534",
+    "name": "Hillegom",
+    "code": "0534",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.29857014503789,
+      "lon": 4.5773886851381365
+    }
+  },
+  {
+    "id": "GM0798",
+    "name": "Hilvarenbeek",
+    "code": "0798",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.4847839973619,
+      "lon": 5.146420170270476
+    }
+  },
+  {
+    "id": "GM0402",
+    "name": "Hilversum",
+    "code": "0402",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.23148470129393,
+      "lon": 5.160041169250116
+    }
+  },
+  {
+    "id": "GM1963",
+    "name": "Hoeksche Waard",
+    "code": "1963",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.767096608178434,
+      "lon": 4.446906351967968
+    }
+  },
+  {
+    "id": "GM1735",
+    "name": "Hof van Twente",
+    "code": "1735",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.2374602993699,
+      "lon": 6.59520755399374
+    }
+  },
+  {
+    "id": "GM1911",
+    "name": "Hollands Kroon",
+    "code": "1911",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.88704478314462,
+      "lon": 4.981657868022312
+    }
+  },
+  {
+    "id": "GM0118",
+    "name": "Hoogeveen",
+    "code": "0118",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.72463862618263,
+      "lon": 6.514294239452055
+    }
+  },
+  {
+    "id": "GM0405",
+    "name": "Hoorn",
+    "code": "0405",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.633120192051535,
+      "lon": 5.074353723258967
+    }
+  },
+  {
+    "id": "GM1507",
+    "name": "Horst aan de Maas",
+    "code": "1507",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.44833771914764,
+      "lon": 6.0448122794728265
+    }
+  },
+  {
+    "id": "GM0321",
+    "name": "Houten",
+    "code": "0321",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.006004014274545,
+      "lon": 5.183929892919054
+    }
+  },
+  {
+    "id": "GM0406",
+    "name": "Huizen",
+    "code": "0406",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.29997534105354,
+      "lon": 5.237196037444066
+    }
+  },
+  {
+    "id": "GM0677",
+    "name": "Hulst",
+    "code": "0677",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.33938362528171,
+      "lon": 4.065023415369253
+    }
+  },
+  {
+    "id": "GM0353",
+    "name": "IJsselstein",
+    "code": "0353",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.02873105295947,
+      "lon": 5.028229006617848
+    }
+  },
+  {
+    "id": "GM1884",
+    "name": "Kaag en Braassem",
+    "code": "1884",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.19570642498224,
+      "lon": 4.631957387231877
+    }
+  },
+  {
+    "id": "GM0166",
+    "name": "Kampen",
+    "code": "0166",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.55979697479049,
+      "lon": 5.921640297518835
+    }
+  },
+  {
+    "id": "GM0678",
+    "name": "Kapelle",
+    "code": "0678",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.49731458518062,
+      "lon": 3.9671728723374335
+    }
+  },
+  {
+    "id": "GM0537",
+    "name": "Katwijk",
+    "code": "0537",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.19514072061632,
+      "lon": 4.4193164920367884
+    }
+  },
+  {
+    "id": "GM0928",
+    "name": "Kerkrade",
+    "code": "0928",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.872794374909525,
+      "lon": 6.050338023273865
+    }
+  },
+  {
+    "id": "GM1598",
+    "name": "Koggenland",
+    "code": "1598",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.6469138145698,
+      "lon": 4.949637365653002
+    }
+  },
+  {
+    "id": "GM0542",
+    "name": "Krimpen aan den IJssel",
+    "code": "0542",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.91590792076825,
+      "lon": 4.5998825635283875
+    }
+  },
+  {
+    "id": "GM1931",
+    "name": "Krimpenerwaard",
+    "code": "1931",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.954176870676356,
+      "lon": 4.736215037520206
+    }
+  },
+  {
+    "id": "GM1659",
+    "name": "Laarbeek",
+    "code": "1659",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.532539581215445,
+      "lon": 5.613965996685645
+    }
+  },
+  {
+    "id": "GM1982",
+    "name": "Land van Cuijk",
+    "code": "1982",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.658560867283626,
+      "lon": 5.860512093725239
+    }
+  },
+  {
+    "id": "GM0882",
+    "name": "Landgraaf",
+    "code": "0882",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.90685430147364,
+      "lon": 6.0363046427784095
+    }
+  },
+  {
+    "id": "GM0415",
+    "name": "Landsmeer",
+    "code": "0415",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.45258945719919,
+      "lon": 4.925027042833326
+    }
+  },
+  {
+    "id": "GM1621",
+    "name": "Lansingerland",
+    "code": "1621",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.00474994289605,
+      "lon": 4.504260087518799
+    }
+  },
+  {
+    "id": "GM0417",
+    "name": "Laren",
+    "code": "0417",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.2482664575914,
+      "lon": 5.2176838729948205
+    }
+  },
+  {
+    "id": "GM0080",
+    "name": "Leeuwarden",
+    "code": "0080",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.16795055688572,
+      "lon": 5.791855426525503
+    }
+  },
+  {
+    "id": "GM0546",
+    "name": "Leiden",
+    "code": "0546",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.15584516391922,
+      "lon": 4.483759603689205
+    }
+  },
+  {
+    "id": "GM0547",
+    "name": "Leiderdorp",
+    "code": "0547",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.15896252237892,
+      "lon": 4.5428385786666166
+    }
+  },
+  {
+    "id": "GM1916",
+    "name": "Leidschendam-Voorburg",
+    "code": "1916",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.09064193718798,
+      "lon": 4.418624765936115
+    }
+  },
+  {
+    "id": "GM0995",
+    "name": "Lelystad",
+    "code": "0995",
+    "province": "Flevoland",
+    "province_code": "24",
+    "center": {
+      "lat": 52.54127308520814,
+      "lon": 5.376630551080801
+    }
+  },
+  {
+    "id": "GM1640",
+    "name": "Leudal",
+    "code": "1640",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.2372451587507,
+      "lon": 5.877713039273367
+    }
+  },
+  {
+    "id": "GM0327",
+    "name": "Leusden",
+    "code": "0327",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.124215186099626,
+      "lon": 5.419797073334994
+    }
+  },
+  {
+    "id": "GM1705",
+    "name": "Lingewaard",
+    "code": "1705",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.8999684575924,
+      "lon": 5.9448566283350495
+    }
+  },
+  {
+    "id": "GM0553",
+    "name": "Lisse",
+    "code": "0553",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.256420715254094,
+      "lon": 4.545316816813393
+    }
+  },
+  {
+    "id": "GM0262",
+    "name": "Lochem",
+    "code": "0262",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.179973851158024,
+      "lon": 6.342580948040841
+    }
+  },
+  {
+    "id": "GM0809",
+    "name": "Loon op Zand",
+    "code": "0809",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.644365007184206,
+      "lon": 5.049139155531026
+    }
+  },
+  {
+    "id": "GM0331",
+    "name": "Lopik",
+    "code": "0331",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 51.984818478997674,
+      "lon": 4.948125889188428
+    }
+  },
+  {
+    "id": "GM0168",
+    "name": "Losser",
+    "code": "0168",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.30434524629854,
+      "lon": 7.007720803714877
+    }
+  },
+  {
+    "id": "GM0263",
+    "name": "Maasdriel",
+    "code": "0263",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.783883653197904,
+      "lon": 5.298202772811918
+    }
+  },
+  {
+    "id": "GM1641",
+    "name": "Maasgouw",
+    "code": "1641",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.16143632647564,
+      "lon": 5.8825408095638965
+    }
+  },
+  {
+    "id": "GM1991",
+    "name": "Maashorst",
+    "code": "1991",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.690235132647636,
+      "lon": 5.653738322121387
+    }
+  },
+  {
+    "id": "GM0556",
+    "name": "Maassluis",
+    "code": "0556",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.92760464575399,
+      "lon": 4.250805635205621
+    }
+  },
+  {
+    "id": "GM0935",
+    "name": "Maastricht",
+    "code": "0935",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.856430977138864,
+      "lon": 5.7012364820226935
+    }
+  },
+  {
+    "id": "GM0420",
+    "name": "Medemblik",
+    "code": "0420",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.773507924787005,
+      "lon": 5.144779292801551
+    }
+  },
+  {
+    "id": "GM0938",
+    "name": "Meerssen",
+    "code": "0938",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.903702254972714,
+      "lon": 5.75913281688076
+    }
+  },
+  {
+    "id": "GM1948",
+    "name": "Meierijstad",
+    "code": "1948",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.59404053782256,
+      "lon": 5.506314137030517
+    }
+  },
+  {
+    "id": "GM0119",
+    "name": "Meppel",
+    "code": "0119",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.71737736543962,
+      "lon": 6.201916808084443
+    }
+  },
+  {
+    "id": "GM0687",
+    "name": "Middelburg",
+    "code": "0687",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.50633425551466,
+      "lon": 3.65324014495606
+    }
+  },
+  {
+    "id": "GM1842",
+    "name": "Midden-Delfland",
+    "code": "1842",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.969708178565014,
+      "lon": 4.311082189474917
+    }
+  },
+  {
+    "id": "GM1731",
+    "name": "Midden-Drenthe",
+    "code": "1731",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.87352735798901,
+      "lon": 6.536560431945759
+    }
+  },
+  {
+    "id": "GM1952",
+    "name": "Midden-Groningen",
+    "code": "1952",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.186844708761214,
+      "lon": 6.811669652521854
+    }
+  },
+  {
+    "id": "GM1709",
+    "name": "Moerdijk",
+    "code": "1709",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.66673171076677,
+      "lon": 4.540455446798271
+    }
+  },
+  {
+    "id": "GM1978",
+    "name": "Molenlanden",
+    "code": "1978",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.886104530151655,
+      "lon": 4.840948876141924
+    }
+  },
+  {
+    "id": "GM1955",
+    "name": "Montferland",
+    "code": "1955",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.923021140694786,
+      "lon": 6.215259664802728
+    }
+  },
+  {
+    "id": "GM0335",
+    "name": "Montfoort",
+    "code": "0335",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.04887965364205,
+      "lon": 4.944506526308194
+    }
+  },
+  {
+    "id": "GM0944",
+    "name": "Mook en Middelaar",
+    "code": "0944",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.7493442617181,
+      "lon": 5.899982971270352
+    }
+  },
+  {
+    "id": "GM1740",
+    "name": "Neder-Betuwe",
+    "code": "1740",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.91942669436315,
+      "lon": 5.586064647706799
+    }
+  },
+  {
+    "id": "GM0946",
+    "name": "Nederweert",
+    "code": "0946",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.293019185890905,
+      "lon": 5.777664659567219
+    }
+  },
+  {
+    "id": "GM0356",
+    "name": "Nieuwegein",
+    "code": "0356",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.031865722017,
+      "lon": 5.096403352231126
+    }
+  },
+  {
+    "id": "GM0569",
+    "name": "Nieuwkoop",
+    "code": "0569",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.16873516506647,
+      "lon": 4.7792374362235845
+    }
+  },
+  {
+    "id": "GM0267",
+    "name": "Nijkerk",
+    "code": "0267",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.21338482837464,
+      "lon": 5.499909127649233
+    }
+  },
+  {
+    "id": "GM0268",
+    "name": "Nijmegen",
+    "code": "0268",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.84170745696662,
+      "lon": 5.836370848941164
+    }
+  },
+  {
+    "id": "GM1930",
+    "name": "Nissewaard",
+    "code": "1930",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.83213940756621,
+      "lon": 4.28371204336143
+    }
+  },
+  {
+    "id": "GM1970",
+    "name": "Noardeast-Fryslân",
+    "code": "1970",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.35688203571647,
+      "lon": 6.000505262582451
+    }
+  },
+  {
+    "id": "GM1695",
+    "name": "Noord-Beveland",
+    "code": "1695",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.56939548807068,
+      "lon": 3.8006723565733953
+    }
+  },
+  {
+    "id": "GM1699",
+    "name": "Noordenveld",
+    "code": "1699",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 53.096719818754195,
+      "lon": 6.440782429823655
+    }
+  },
+  {
+    "id": "GM0171",
+    "name": "Noordoostpolder",
+    "code": "0171",
+    "province": "Flevoland",
+    "province_code": "24",
+    "center": {
+      "lat": 52.71825848184319,
+      "lon": 5.720391520732036
+    }
+  },
+  {
+    "id": "GM0575",
+    "name": "Noordwijk",
+    "code": "0575",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.27185261292766,
+      "lon": 4.475979381204416
+    }
+  },
+  {
+    "id": "GM0820",
+    "name": "Nuenen, Gerwen en Nederwetten",
+    "code": "0820",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.48410340251416,
+      "lon": 5.551021837664036
+    }
+  },
+  {
+    "id": "GM0302",
+    "name": "Nunspeet",
+    "code": "0302",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.33948740086587,
+      "lon": 5.785874011677626
+    }
+  },
+  {
+    "id": "GM0579",
+    "name": "Oegstgeest",
+    "code": "0579",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.185516439330016,
+      "lon": 4.468817566334478
+    }
+  },
+  {
+    "id": "GM0823",
+    "name": "Oirschot",
+    "code": "0823",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.49187108572857,
+      "lon": 5.2917611538544564
+    }
+  },
+  {
+    "id": "GM0824",
+    "name": "Oisterwijk",
+    "code": "0824",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.565253498847284,
+      "lon": 5.21091240634647
+    }
+  },
+  {
+    "id": "GM1895",
+    "name": "Oldambt",
+    "code": "1895",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.218777962876125,
+      "lon": 7.069531226429253
+    }
+  },
+  {
+    "id": "GM0269",
+    "name": "Oldebroek",
+    "code": "0269",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.46411731131565,
+      "lon": 5.9368843130488145
+    }
+  },
+  {
+    "id": "GM0173",
+    "name": "Oldenzaal",
+    "code": "0173",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.309405802872405,
+      "lon": 6.9118802476693295
+    }
+  },
+  {
+    "id": "GM1773",
+    "name": "Olst-Wijhe",
+    "code": "1773",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.37204442828741,
+      "lon": 6.155253611390928
+    }
+  },
+  {
+    "id": "GM0175",
+    "name": "Ommen",
+    "code": "0175",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.51564743633514,
+      "lon": 6.4426130806496955
+    }
+  },
+  {
+    "id": "GM1586",
+    "name": "Oost Gelre",
+    "code": "1586",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.01396224398821,
+      "lon": 6.577538675547429
+    }
+  },
+  {
+    "id": "GM0826",
+    "name": "Oosterhout",
+    "code": "0826",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.638494012495045,
+      "lon": 4.862279451368488
+    }
+  },
+  {
+    "id": "GM0085",
+    "name": "Ooststellingwerf",
+    "code": "0085",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 52.980494860381974,
+      "lon": 6.272750173226488
+    }
+  },
+  {
+    "id": "GM0431",
+    "name": "Oostzaan",
+    "code": "0431",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.45423156151186,
+      "lon": 4.878182571097093
+    }
+  },
+  {
+    "id": "GM0432",
+    "name": "Opmeer",
+    "code": "0432",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.71629169204521,
+      "lon": 4.955970736836411
+    }
+  },
+  {
+    "id": "GM0086",
+    "name": "Opsterland",
+    "code": "0086",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.05446916760302,
+      "lon": 6.105685476827605
+    }
+  },
+  {
+    "id": "GM0828",
+    "name": "Oss",
+    "code": "0828",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.78065138687003,
+      "lon": 5.523808698981418
+    }
+  },
+  {
+    "id": "GM1509",
+    "name": "Oude IJsselstreek",
+    "code": "1509",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.90797507977193,
+      "lon": 6.404571743143022
+    }
+  },
+  {
+    "id": "GM0437",
+    "name": "Ouder-Amstel",
+    "code": "0437",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.292926003033415,
+      "lon": 4.918176740122852
+    }
+  },
+  {
+    "id": "GM0589",
+    "name": "Oudewater",
+    "code": "0589",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.02733301172116,
+      "lon": 4.8635083008054325
+    }
+  },
+  {
+    "id": "GM1734",
+    "name": "Overbetuwe",
+    "code": "1734",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.927393012695084,
+      "lon": 5.781256887638051
+    }
+  },
+  {
+    "id": "GM0590",
+    "name": "Papendrecht",
+    "code": "0590",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.836115159503485,
+      "lon": 4.704471580803754
+    }
+  },
+  {
+    "id": "GM1894",
+    "name": "Peel en Maas",
+    "code": "1894",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.337273860670656,
+      "lon": 5.993576256396823
+    }
+  },
+  {
+    "id": "GM0765",
+    "name": "Pekela",
+    "code": "0765",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.072547826272675,
+      "lon": 6.972302518387417
+    }
+  },
+  {
+    "id": "GM1926",
+    "name": "Pijnacker-Nootdorp",
+    "code": "1926",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.019444389351804,
+      "lon": 4.42223978248535
+    }
+  },
+  {
+    "id": "GM0439",
+    "name": "Purmerend",
+    "code": "0439",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.54451545348701,
+      "lon": 4.936137122209909
+    }
+  },
+  {
+    "id": "GM0273",
+    "name": "Putten",
+    "code": "0273",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.24676610649117,
+      "lon": 5.579001656143986
+    }
+  },
+  {
+    "id": "GM0177",
+    "name": "Raalte",
+    "code": "0177",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.391426300253144,
+      "lon": 6.27581355805511
+    }
+  },
+  {
+    "id": "GM0703",
+    "name": "Reimerswaal",
+    "code": "0703",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.44242711266125,
+      "lon": 4.117109419353217
+    }
+  },
+  {
+    "id": "GM0274",
+    "name": "Renkum",
+    "code": "0274",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.991273811111846,
+      "lon": 5.7894719737920575
+    }
+  },
+  {
+    "id": "GM0339",
+    "name": "Renswoude",
+    "code": "0339",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.072457385757446,
+      "lon": 5.533270608504224
+    }
+  },
+  {
+    "id": "GM1667",
+    "name": "Reusel-De Mierden",
+    "code": "1667",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.37763582909961,
+      "lon": 5.147869438904142
+    }
+  },
+  {
+    "id": "GM0275",
+    "name": "Rheden",
+    "code": "0275",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.03119880214786,
+      "lon": 6.0476672118165755
+    }
+  },
+  {
+    "id": "GM0340",
+    "name": "Rhenen",
+    "code": "0340",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 51.984405859799615,
+      "lon": 5.559477682848148
+    }
+  },
+  {
+    "id": "GM0597",
+    "name": "Ridderkerk",
+    "code": "0597",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.87045595471846,
+      "lon": 4.596259340447802
+    }
+  },
+  {
+    "id": "GM1742",
+    "name": "Rijssen-Holten",
+    "code": "1742",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.29140976504063,
+      "lon": 6.438349917310159
+    }
+  },
+  {
+    "id": "GM0603",
+    "name": "Rijswijk",
+    "code": "0603",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.03784680128222,
+      "lon": 4.32715005533563
+    }
+  },
+  {
+    "id": "GM1669",
+    "name": "Roerdalen",
+    "code": "1669",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.14879827834244,
+      "lon": 6.049452496123877
+    }
+  },
+  {
+    "id": "GM0957",
+    "name": "Roermond",
+    "code": "0957",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.20364390009242,
+      "lon": 6.011337323446617
+    }
+  },
+  {
+    "id": "GM1674",
+    "name": "Roosendaal",
+    "code": "1674",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.51737713513297,
+      "lon": 4.418661523846728
+    }
+  },
+  {
+    "id": "GM0599",
+    "name": "Rotterdam",
+    "code": "0599",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.93653308729377,
+      "lon": 4.288510261131553
+    }
+  },
+  {
+    "id": "GM0277",
+    "name": "Rozendaal",
+    "code": "0277",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.04370120613757,
+      "lon": 5.970911165919252
+    }
+  },
+  {
+    "id": "GM0840",
+    "name": "Rucphen",
+    "code": "0840",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.52390084332958,
+      "lon": 4.5551175298131845
+    }
+  },
+  {
+    "id": "GM0441",
+    "name": "Schagen",
+    "code": "0441",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.7862002442263,
+      "lon": 4.745782134343817
+    }
+  },
+  {
+    "id": "GM0279",
+    "name": "Scherpenzeel",
+    "code": "0279",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.091133976573055,
+      "lon": 5.500612710288773
+    }
+  },
+  {
+    "id": "GM0606",
+    "name": "Schiedam",
+    "code": "0606",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.93057670243252,
+      "lon": 4.386373452304737
+    }
+  },
+  {
+    "id": "GM0088",
+    "name": "Schiermonnikoog",
+    "code": "0088",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.48134620706186,
+      "lon": 6.2300300007135725
+    }
+  },
+  {
+    "id": "GM1676",
+    "name": "Schouwen-Duiveland",
+    "code": "1676",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.68173790753146,
+      "lon": 3.88943269828585
+    }
+  },
+  {
+    "id": "GM0965",
+    "name": "Simpelveld",
+    "code": "0965",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.83079554699254,
+      "lon": 5.986819228168033
+    }
+  },
+  {
+    "id": "GM0845",
+    "name": "Sint-Michielsgestel",
+    "code": "0845",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.65685758337615,
+      "lon": 5.378308867847861
+    }
+  },
+  {
+    "id": "GM1883",
+    "name": "Sittard-Geleen",
+    "code": "1883",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.00811747430838,
+      "lon": 5.827320246565798
+    }
+  },
+  {
+    "id": "GM0610",
+    "name": "Sliedrecht",
+    "code": "0610",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.83218828536832,
+      "lon": 4.773960926122366
+    }
+  },
+  {
+    "id": "GM1714",
+    "name": "Sluis",
+    "code": "1714",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.32893010238317,
+      "lon": 3.533633044340673
+    }
+  },
+  {
+    "id": "GM0090",
+    "name": "Smallingerland",
+    "code": "0090",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.114891377984165,
+      "lon": 6.036164026567114
+    }
+  },
+  {
+    "id": "GM0342",
+    "name": "Soest",
+    "code": "0342",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.15873864065557,
+      "lon": 5.2980381951222935
+    }
+  },
+  {
+    "id": "GM0847",
+    "name": "Someren",
+    "code": "0847",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.38148418464092,
+      "lon": 5.692637731673476
+    }
+  },
+  {
+    "id": "GM0848",
+    "name": "Son en Breugel",
+    "code": "0848",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.51898940135668,
+      "lon": 5.483155905897149
+    }
+  },
+  {
+    "id": "GM0037",
+    "name": "Stadskanaal",
+    "code": "0037",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.00964718354159,
+      "lon": 7.003754123420901
+    }
+  },
+  {
+    "id": "GM0180",
+    "name": "Staphorst",
+    "code": "0180",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.637268249691445,
+      "lon": 6.207909505840162
+    }
+  },
+  {
+    "id": "GM0532",
+    "name": "Stede Broec",
+    "code": "0532",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.69872603379986,
+      "lon": 5.229584513407544
+    }
+  },
+  {
+    "id": "GM0851",
+    "name": "Steenbergen",
+    "code": "0851",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.600662751004144,
+      "lon": 4.322762588272698
+    }
+  },
+  {
+    "id": "GM1708",
+    "name": "Steenwijkerland",
+    "code": "1708",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.758756436935926,
+      "lon": 6.0185730438109815
+    }
+  },
+  {
+    "id": "GM0971",
+    "name": "Stein",
+    "code": "0971",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.971929956428326,
+      "lon": 5.763111370772363
+    }
+  },
+  {
+    "id": "GM1904",
+    "name": "Stichtse Vecht",
+    "code": "1904",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.19021190763115,
+      "lon": 5.0244656201613305
+    }
+  },
+  {
+    "id": "GM1900",
+    "name": "Súdwest-Fryslân",
+    "code": "1900",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 52.998227283829785,
+      "lon": 5.470670889802522
+    }
+  },
+  {
+    "id": "GM0715",
+    "name": "Terneuzen",
+    "code": "0715",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.304104946833505,
+      "lon": 3.8311645740691302
+    }
+  },
+  {
+    "id": "GM0093",
+    "name": "Terschelling",
+    "code": "0093",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.341810480013756,
+      "lon": 5.369573058528461
+    }
+  },
+  {
+    "id": "GM0448",
+    "name": "Texel",
+    "code": "0448",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 53.06904026394085,
+      "lon": 4.869087045273382
+    }
+  },
+  {
+    "id": "GM1525",
+    "name": "Teylingen",
+    "code": "1525",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.21420275738348,
+      "lon": 4.51118081867532
+    }
+  },
+  {
+    "id": "GM0716",
+    "name": "Tholen",
+    "code": "0716",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.57663047825701,
+      "lon": 4.107966554324268
+    }
+  },
+  {
+    "id": "GM0281",
+    "name": "Tiel",
+    "code": "0281",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.88563791891585,
+      "lon": 5.407981788765906
+    }
+  },
+  {
+    "id": "GM0855",
+    "name": "Tilburg",
+    "code": "0855",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.58676266985864,
+      "lon": 5.074378434009629
+    }
+  },
+  {
+    "id": "GM0183",
+    "name": "Tubbergen",
+    "code": "0183",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.41047803595627,
+      "lon": 6.790144413337872
+    }
+  },
+  {
+    "id": "GM1700",
+    "name": "Twenterand",
+    "code": "1700",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.44721552183664,
+      "lon": 6.599830238360225
+    }
+  },
+  {
+    "id": "GM1730",
+    "name": "Tynaarlo",
+    "code": "1730",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 53.10430501259687,
+      "lon": 6.603542875156553
+    }
+  },
+  {
+    "id": "GM0737",
+    "name": "Tytsjerksteradiel",
+    "code": "0737",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.20153700193744,
+      "lon": 5.960975876545618
+    }
+  },
+  {
+    "id": "GM0450",
+    "name": "Uitgeest",
+    "code": "0450",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.52511217939453,
+      "lon": 4.730802618411535
+    }
+  },
+  {
+    "id": "GM0451",
+    "name": "Uithoorn",
+    "code": "0451",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.23611494015602,
+      "lon": 4.786768004561357
+    }
+  },
+  {
+    "id": "GM0184",
+    "name": "Urk",
+    "code": "0184",
+    "province": "Flevoland",
+    "province_code": "24",
+    "center": {
+      "lat": 52.69308384730641,
+      "lon": 5.494646814296609
+    }
+  },
+  {
+    "id": "GM0344",
+    "name": "Utrecht",
+    "code": "0344",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.09099121396073,
+      "lon": 5.075100653173857
+    }
+  },
+  {
+    "id": "GM1581",
+    "name": "Utrechtse Heuvelrug",
+    "code": "1581",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.03326899328569,
+      "lon": 5.386178693140913
+    }
+  },
+  {
+    "id": "GM0981",
+    "name": "Vaals",
+    "code": "0981",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.77593279959793,
+      "lon": 5.974673492984494
+    }
+  },
+  {
+    "id": "GM0994",
+    "name": "Valkenburg aan de Geul",
+    "code": "0994",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.861916579050934,
+      "lon": 5.823536017935223
+    }
+  },
+  {
+    "id": "GM0858",
+    "name": "Valkenswaard",
+    "code": "0858",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.32905592874066,
+      "lon": 5.452046545606577
+    }
+  },
+  {
+    "id": "GM0047",
+    "name": "Veendam",
+    "code": "0047",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.08952142729756,
+      "lon": 6.883010983559923
+    }
+  },
+  {
+    "id": "GM0345",
+    "name": "Veenendaal",
+    "code": "0345",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.025361547131084,
+      "lon": 5.556654560395873
+    }
+  },
+  {
+    "id": "GM0717",
+    "name": "Veere",
+    "code": "0717",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.56326684400628,
+      "lon": 3.5941076198087085
+    }
+  },
+  {
+    "id": "GM0861",
+    "name": "Veldhoven",
+    "code": "0861",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.41228146145805,
+      "lon": 5.380407455450855
+    }
+  },
+  {
+    "id": "GM0453",
+    "name": "Velsen",
+    "code": "0453",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.45200722834886,
+      "lon": 4.616276755563115
+    }
+  },
+  {
+    "id": "GM0983",
+    "name": "Venlo",
+    "code": "0983",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.39532960098139,
+      "lon": 6.152956451244028
+    }
+  },
+  {
+    "id": "GM0984",
+    "name": "Venray",
+    "code": "0984",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.519476437837994,
+      "lon": 5.9701991195794495
+    }
+  },
+  {
+    "id": "GM1961",
+    "name": "Vijfheerenlanden",
+    "code": "1961",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 51.93633998193412,
+      "lon": 5.054566153548643
+    }
+  },
+  {
+    "id": "GM0622",
+    "name": "Vlaardingen",
+    "code": "0622",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.918999399316995,
+      "lon": 4.32833708257839
+    }
+  },
+  {
+    "id": "GM0096",
+    "name": "Vlieland",
+    "code": "0096",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.213650932683116,
+      "lon": 5.036948555865364
+    }
+  },
+  {
+    "id": "GM0718",
+    "name": "Vlissingen",
+    "code": "0718",
+    "province": "Zeeland",
+    "province_code": "29",
+    "center": {
+      "lat": 51.474383896992585,
+      "lon": 3.5052987806824136
+    }
+  },
+  {
+    "id": "GM0986",
+    "name": "Voerendaal",
+    "code": "0986",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 50.870425403259446,
+      "lon": 5.9147949239246795
+    }
+  },
+  {
+    "id": "GM1992",
+    "name": "Voorne aan Zee",
+    "code": "1992",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.87072163021454,
+      "lon": 4.106868701904387
+    }
+  },
+  {
+    "id": "GM0626",
+    "name": "Voorschoten",
+    "code": "0626",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.12690934255265,
+      "lon": 4.439123824954303
+    }
+  },
+  {
+    "id": "GM0285",
+    "name": "Voorst",
+    "code": "0285",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.228408462565035,
+      "lon": 6.102550441633494
+    }
+  },
+  {
+    "id": "GM0865",
+    "name": "Vught",
+    "code": "0865",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.65225397566371,
+      "lon": 5.242517467735371
+    }
+  },
+  {
+    "id": "GM1949",
+    "name": "Waadhoeke",
+    "code": "1949",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 53.23082560478739,
+      "lon": 5.6144970297444745
+    }
+  },
+  {
+    "id": "GM0866",
+    "name": "Waalre",
+    "code": "0866",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.38817766928925,
+      "lon": 5.4653058695663885
+    }
+  },
+  {
+    "id": "GM0867",
+    "name": "Waalwijk",
+    "code": "0867",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.69331782796154,
+      "lon": 5.013871492841777
+    }
+  },
+  {
+    "id": "GM0627",
+    "name": "Waddinxveen",
+    "code": "0627",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.04377027319342,
+      "lon": 4.642916825395901
+    }
+  },
+  {
+    "id": "GM0289",
+    "name": "Wageningen",
+    "code": "0289",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.97467777601164,
+      "lon": 5.660278755126297
+    }
+  },
+  {
+    "id": "GM0629",
+    "name": "Wassenaar",
+    "code": "0629",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.14133315539827,
+      "lon": 4.365822344975733
+    }
+  },
+  {
+    "id": "GM0852",
+    "name": "Waterland",
+    "code": "0852",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.447736337245786,
+      "lon": 5.058694086985172
+    }
+  },
+  {
+    "id": "GM0988",
+    "name": "Weert",
+    "code": "0988",
+    "province": "Limburg",
+    "province_code": "31",
+    "center": {
+      "lat": 51.23533351110496,
+      "lon": 5.685138551950343
+    }
+  },
+  {
+    "id": "GM1960",
+    "name": "West Betuwe",
+    "code": "1960",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.86461228678368,
+      "lon": 5.208941098924464
+    }
+  },
+  {
+    "id": "GM0668",
+    "name": "West Maas en Waal",
+    "code": "0668",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.852721443044175,
+      "lon": 5.505526608215633
+    }
+  },
+  {
+    "id": "GM1969",
+    "name": "Westerkwartier",
+    "code": "1969",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.22264162605365,
+      "lon": 6.340021996896734
+    }
+  },
+  {
+    "id": "GM1701",
+    "name": "Westerveld",
+    "code": "1701",
+    "province": "Drenthe",
+    "province_code": "22",
+    "center": {
+      "lat": 52.835667782814205,
+      "lon": 6.296688397466509
+    }
+  },
+  {
+    "id": "GM0293",
+    "name": "Westervoort",
+    "code": "0293",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.9607486342753,
+      "lon": 5.975103084231792
+    }
+  },
+  {
+    "id": "GM1950",
+    "name": "Westerwolde",
+    "code": "1950",
+    "province": "Groningen",
+    "province_code": "20",
+    "center": {
+      "lat": 53.011686531985,
+      "lon": 7.107361246320556
+    }
+  },
+  {
+    "id": "GM1783",
+    "name": "Westland",
+    "code": "1783",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.00316998995601,
+      "lon": 4.216876614658753
+    }
+  },
+  {
+    "id": "GM0098",
+    "name": "Weststellingwerf",
+    "code": "0098",
+    "province": "Fryslân",
+    "province_code": "21",
+    "center": {
+      "lat": 52.877168263832594,
+      "lon": 6.019721545771732
+    }
+  },
+  {
+    "id": "GM0189",
+    "name": "Wierden",
+    "code": "0189",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.34224656959377,
+      "lon": 6.5573325537866785
+    }
+  },
+  {
+    "id": "GM0296",
+    "name": "Wijchen",
+    "code": "0296",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.820629674527275,
+      "lon": 5.6991144080957055
+    }
+  },
+  {
+    "id": "GM1696",
+    "name": "Wijdemeren",
+    "code": "1696",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.22849710960199,
+      "lon": 5.080710088421073
+    }
+  },
+  {
+    "id": "GM0352",
+    "name": "Wijk bij Duurstede",
+    "code": "0352",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 51.99109124837974,
+      "lon": 5.325532360374644
+    }
+  },
+  {
+    "id": "GM0294",
+    "name": "Winterswijk",
+    "code": "0294",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.970511145703796,
+      "lon": 6.725616171588414
+    }
+  },
+  {
+    "id": "GM0873",
+    "name": "Woensdrecht",
+    "code": "0873",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.4096822399098,
+      "lon": 4.343418427714124
+    }
+  },
+  {
+    "id": "GM0632",
+    "name": "Woerden",
+    "code": "0632",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.10890779478641,
+      "lon": 4.8976761152901345
+    }
+  },
+  {
+    "id": "GM0880",
+    "name": "Wormerland",
+    "code": "0880",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.50550648480291,
+      "lon": 4.855914560559364
+    }
+  },
+  {
+    "id": "GM0351",
+    "name": "Woudenberg",
+    "code": "0351",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.08578850091283,
+      "lon": 5.424107772337485
+    }
+  },
+  {
+    "id": "GM0479",
+    "name": "Zaanstad",
+    "code": "0479",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.466995076223924,
+      "lon": 4.776067855075325
+    }
+  },
+  {
+    "id": "GM0297",
+    "name": "Zaltbommel",
+    "code": "0297",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.79152706390934,
+      "lon": 5.157015523804491
+    }
+  },
+  {
+    "id": "GM0473",
+    "name": "Zandvoort",
+    "code": "0473",
+    "province": "Noord-Holland",
+    "province_code": "27",
+    "center": {
+      "lat": 52.36173367108331,
+      "lon": 4.535928077923615
+    }
+  },
+  {
+    "id": "GM0050",
+    "name": "Zeewolde",
+    "code": "0050",
+    "province": "Flevoland",
+    "province_code": "24",
+    "center": {
+      "lat": 52.35094478006529,
+      "lon": 5.458001981730674
+    }
+  },
+  {
+    "id": "GM0355",
+    "name": "Zeist",
+    "code": "0355",
+    "province": "Utrecht",
+    "province_code": "26",
+    "center": {
+      "lat": 52.10601987775474,
+      "lon": 5.256387579877205
+    }
+  },
+  {
+    "id": "GM0299",
+    "name": "Zevenaar",
+    "code": "0299",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 51.933555222601484,
+      "lon": 6.088303290947065
+    }
+  },
+  {
+    "id": "GM0637",
+    "name": "Zoetermeer",
+    "code": "0637",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.06180017808688,
+      "lon": 4.489788841398436
+    }
+  },
+  {
+    "id": "GM0638",
+    "name": "Zoeterwoude",
+    "code": "0638",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.115650675045494,
+      "lon": 4.515556858994979
+    }
+  },
+  {
+    "id": "GM1892",
+    "name": "Zuidplas",
+    "code": "1892",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 52.00188408530106,
+      "lon": 4.610951570223803
+    }
+  },
+  {
+    "id": "GM0879",
+    "name": "Zundert",
+    "code": "0879",
+    "province": "Noord-Brabant",
+    "province_code": "30",
+    "center": {
+      "lat": 51.48103954622926,
+      "lon": 4.640857565517821
+    }
+  },
+  {
+    "id": "GM0301",
+    "name": "Zutphen",
+    "code": "0301",
+    "province": "Gelderland",
+    "province_code": "25",
+    "center": {
+      "lat": 52.137367277562575,
+      "lon": 6.23166196737687
+    }
+  },
+  {
+    "id": "GM1896",
+    "name": "Zwartewaterland",
+    "code": "1896",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.60533812262608,
+      "lon": 6.071846695109439
+    }
+  },
+  {
+    "id": "GM0642",
+    "name": "Zwijndrecht",
+    "code": "0642",
+    "province": "Zuid-Holland",
+    "province_code": "28",
+    "center": {
+      "lat": 51.824835052997074,
+      "lon": 4.608919506382291
+    }
+  },
+  {
+    "id": "GM0193",
+    "name": "Zwolle",
+    "code": "0193",
+    "province": "Overijssel",
+    "province_code": "23",
+    "center": {
+      "lat": 52.5218607658496,
+      "lon": 6.120190682402354
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "center-of-dutch-municipalities",
+  "version": "1.0.0",
+  "description": "A dataset containing the calculated center of all current (2023-03-14) Dutch municipalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "NODE_TLS_REJECT_UNAUTHORIZED=0 node index.js"
+  },
+  "author": "ThatMeex",
+  "license": "cc0-1.0",
+  "dependencies": {
+    "@turf/turf": "^6.5.0"
+  }
+}
