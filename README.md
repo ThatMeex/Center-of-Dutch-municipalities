@@ -3,7 +3,8 @@
 This repository provides the center coordinates of all current (as of March 14, 2023) Dutch municipalities. Additionally, the repository includes the code used to create the sorted JSON dataset and the input GeoJSON dataset.
 
 ## Data Source
-The raw input dataset was obtained from the [Netherlands' Cadastre, Land Registry and Mapping Agency — Kadaster](https://www.kadaster.nl/) and is available in the form of a GeoPackage [here](https://service.pdok.nl/kadaster/bestuurlijkegebieden/atom/v1_0/bestuurlijke_gebieden.xml).<br>It contains information about the administrative boundaries of Dutch municipalities, including their boundaries, names, codes, and provinces.<br>The raw dataset in GeoJSON format can be found in [municipalities.json](municipalities.json).<br>Converted from GeoPackage to GeoJSON using the [GeoPackage Viewer](https://ngageoint.github.io/geopackage-viewer-js/) using the `gemeentegebied` feature table.
+The raw input dataset was obtained from the [Netherlands' Cadastre, Land Registry and Mapping Agency — Kadaster](https://www.kadaster.nl/) and is available in the form of a GeoPackage [here](https://service.pdok.nl/kadaster/bestuurlijkegebieden/atom/v1_0/bestuurlijke_gebieden.xml).<br>
+<br>It contains information about the administrative boundaries of Dutch municipalities, including their boundaries, names, codes, and provinces.<br><br>The raw dataset in GeoJSON format can be found in [municipalities.json](municipalities.json).<br>Converted from GeoPackage to GeoJSON using the [GeoPackage Viewer](https://ngageoint.github.io/geopackage-viewer-js/) using the `gemeentegebied` feature table.
 
 ## Dataset
 The dataset with the coordinates of the center of each municipality can be found in the form of multiple JSON files in the `/dist` directory.<br>
@@ -36,8 +37,7 @@ The resulting dataset contains the following information for each municipality:
       "lat": 53.21964381438178,
       "lon": 6.6291461212312885
     }
-  },
-  ...
+  }
 ]
 ```
 
